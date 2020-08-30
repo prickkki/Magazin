@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Magazin
+comment1.params=
+comment1.target=Magazin()
+comment10.params=
+comment10.target=int\ genereazaCod()
+comment11.params=
+comment11.target=void\ afiseazaProduseDinMagazin()
+comment12.params=cod
+comment12.target=double\ vizualizareSuma(int)
+comment2.params=
+comment2.target=Magazin\ getInstance()
+comment3.params=
+comment3.target=void\ instantiazaCabinele()
+comment4.params=cod
+comment4.target=void\ folosesteCabina(int)
+comment5.params=
+comment5.target=void\ elibereazaCabina()
+comment6.params=nume\ prenume\ cardReducere
+comment6.target=void\ adaugaCumparator(java.lang.String,\ java.lang.String,\ boolean)
+comment7.params=
+comment7.target=void\ afisazaCumparatorii()
+comment8.params=cod\ produs
+comment8.target=void\ adaugaProdusPentruCumparator(int,\ Produs)
+comment9.params=cod
+comment9.target=void\ afiseazaProdusePentruCumparator(int)
+numComments=13

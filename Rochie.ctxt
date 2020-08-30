@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Rochie
+comment1.params=pret\ culoare
+comment1.target=Rochie(double,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3
